@@ -1,6 +1,4 @@
 # AccidentSeverityPrediction_Victoria
-Research Question: To what extent are predetermined factors, including seat belt usage, age, road surface conditions, 
-atmospheric conditions, node type, fuel and vehicle types, predictive of accident severity on Victorian roads? 
 
 Project Description: In this investigation, we seek to investigate this research question using accidents stored in 
 Victorian road crash data, by first preprocessing the chosen features, using correlation methods to investigate 
