@@ -23,3 +23,10 @@ We explore how predictive some factors of road accidents are on accident severit
 4. Run supervised learning models including Decision Tree Classifiers and k-Nearest Neighbour
 5. Evaluate the predictive power of the chosen features to predict accident severity
 6. Analyse limitations and potential improvements to the investigation.
+
+# Results
+
+| Model                    | Accuracy | F1-Score | 
+|--------------------------|----------|----------|
+| Decision Tree Classifier |  63.2%   |   49.0%  |
+| k-Nearest Neighbours     |  62.5%   |   51.9%  |
