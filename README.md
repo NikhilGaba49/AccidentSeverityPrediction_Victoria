@@ -16,13 +16,11 @@ We explore how predictive some factors of road accidents are on accident severit
 
 # Project Steps
 1. Extract the useful features from the various datasets, and proceed to preprocess the data (encoding, imputation, etc.)
-2. Train-test split to train our model and 
-
-
-Victorian road crash data, by first preprocessing the chosen features, using correlation methods to investigate 
-strong associations with accident severity and finally, evaluate the predictive power of the chosen features to predict
-accident severity based off the historical accident data. The discussion of the methods chosen and limitations to the 
-analysis is included in the project report.
+2. Train-test split to train our model
+3. Correlation methods to investigate strong associations of chosen features with accident severity and feature selection
+4. Run supervised learning models including Decision Tree Classifiers and k-Nearest Neighbour
+5. Evaluate the predictive power of the chosen features to predict accident severity
+6. Analyse limitations and potential improvements to the investigation.
 
 To execute the code for operations and visualisations, please follow the steps:
 1. Download the following datasets from "https://discover.data.vic.gov.au/dataset/victoria-road-crash-data":
