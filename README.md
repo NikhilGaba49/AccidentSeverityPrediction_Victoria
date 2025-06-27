@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://colab.research.google.com/github/NikhilGaba49/AccidentSeverityPrediction_Victoria/blob/main/Code.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikhilGaba49/AccidentSeverityPrediction_Victoria/blob/main/Code.ipynb)
 
 # Accident Severity Prediction in Victoria
