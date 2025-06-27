@@ -1,5 +1,13 @@
 # AccidentSeverityPrediction_Victoria
 
+Predict the severity of road accidents in Victoria using historic crash data. 
+
+# Project Overview
+We explore how predictive some factors of road accidents are on accident severity, including seatbelt usage, age, road and atmospheric conditions and more.
+
+# Data Sources
+
+
 Project Description: In this investigation, we seek to investigate this research question using accidents stored in 
 Victorian road crash data, by first preprocessing the chosen features, using correlation methods to investigate 
 strong associations with accident severity and finally, evaluate the predictive power of the chosen features to predict
